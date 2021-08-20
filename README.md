@@ -1,7 +1,9 @@
 #ISIS1225 - Estructura de un proyecto
 
-Estudiante 2- Jairo Alberto Garavito Correa - 202111499 - ja.garavito@uniandes.edu.co
-Estudiante 1- Juan Pablo Junco Hurtado - 201912957 - jp.junco@uniandes.edu.co
+-Estudiante 2- Jairo Alberto Garavito Correa - 202111499 - ja.garavito@uniandes.edu.co
+
+-Estudiante 1- Juan Pablo Junco Hurtado - 201912957 - jp.junco@uniandes.edu.co
+
 - Julián Galindo Mora - 202111477 - j.galindom2@uniandes.edu.co
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
